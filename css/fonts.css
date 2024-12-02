@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "HelveticaNowText";
+    src: url("../fonts/HelveticaNowText/HelveticaNowText-Regular.woff2") format("woff2"), url("../fonts/HelveticaNowText/HelveticaNowText-Regular.woff") format("woff"), url("../fonts/HelveticaNowText/HelveticaNowText-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HelveticaNowText";
+    src: url("../fonts/HelveticaNowText/HelveticaNowText-Medium.woff2") format("woff2"), url("../fonts/HelveticaNowText/HelveticaNowText-Medium.woff") format("woff"), url("../fonts/HelveticaNowText/HelveticaNowText-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HelveticaNowText";
+    src: url("../fonts/HelveticaNowText/HelveticaNowText-Bold.woff2") format("woff2"), url("../fonts/HelveticaNowText/HelveticaNowText-Bold.woff") format("woff"), url("../fonts/HelveticaNowText/HelveticaNowText-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("../fonts/Montserrat/Montserrat-ExtraBold.ttf") format("woff2"),
+     url("../fonts/Montserrat/Montserrat-ExtraBold.woff") format("woff"),
+     url("../fonts/Montserrat/Montserrat-ExtraBold.ttf") format("truetype");
+    font-weight: 800;
+    font-style: normal;
+}
